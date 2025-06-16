@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "en",
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
@@ -7,14 +7,14 @@
     "AMDIN_NAME": "Lương Trường Khôi",
     "keyRent": "Lunar",
     "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
-    "box_admin": "",
+    "PREFIX": "-",
+    "box_admin": "61577087531671",
     "ADMINBOT": [
-        "",
+        "61577087531671",
         ""
     ],
     "NDH": [
-        "",
+        "61577087531671",
         ""
     ],
     "autoCleanCache": {
